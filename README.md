@@ -28,11 +28,11 @@
 
 I am a **Backend / Full-stack Developer** focused on building reliable APIs, backend platforms, and developer-facing tools.
 
-- Building **PulseGate**, a product-oriented API Gateway and API Management platform.
-- Primary stack: **TypeScript, Node.js, Fastify, PostgreSQL, Redis, and Docker**.
-- Also building backend systems with **Java and Spring Boot**.
-- Interested in API security, distributed systems, observability, and platform engineering.
-- I value clean architecture, automated testing, reproducible delivery, and clear documentation.
+\- Building **PulseGate**, a product-oriented API Gateway and API Management platform.<br/>
+\- Primary stack: **TypeScript, Node.js, Fastify, PostgreSQL, Redis, and Docker**.<br/>
+\- Also building backend systems with **Java and Spring Boot**.<br/>
+\- Interested in API security, distributed systems, observability, and platform engineering.<br/>
+\- I value clean architecture, automated testing, reproducible delivery, and clear documentation.
 
 ---
 
@@ -121,22 +121,22 @@ Working with metrics, traces, logs, dashboards, containers, Kubernetes, automate
 
 ### Platform Highlights
 
-- API-key and JWT authentication
-- Administrative authorization boundaries
-- Rate limiting and response caching
-- Timeout and retry policies
-- Request and response transformations
-- Dynamic runtime route registry
-- Host-based and weighted upstream routing
-- PostgreSQL and Redis integration
-- Usage, rejection, and rollup analytics
-- Admin Dashboard and Developer Portal
-- Prometheus and Grafana metrics
-- OpenTelemetry distributed tracing
-- Loki structured logging
-- Docker Compose and Kubernetes deployment
-- End-to-end demo and bounded k6 validation
-- Automated testing and release-readiness workflows
+\- API-key and JWT authentication<br/>
+\- Administrative authorization boundaries<br/>
+\- Rate limiting and response caching<br/>
+\- Timeout and retry policies<br/>
+\- Request and response transformations<br/>
+\- Dynamic runtime route registry<br/>
+\- Host-based and weighted upstream routing<br/>
+\- PostgreSQL and Redis integration<br/>
+\- Usage, rejection, and rollup analytics<br/>
+\- Admin Dashboard and Developer Portal<br/>
+\- Prometheus and Grafana metrics<br/>
+\- OpenTelemetry distributed tracing<br/>
+\- Loki structured logging<br/>
+\- Docker Compose and Kubernetes deployment<br/>
+\- End-to-end demo and bounded k6 validation<br/>
+\- Automated testing and release-readiness workflows
 
 ### Architecture
 
